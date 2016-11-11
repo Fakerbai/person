@@ -1,0 +1,62 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+
+<svg>
+<metadata>
+Created by webfont
+</metadata>
+<defs>
+
+<font id="Noto Sans S Chinese Medium" horiz-adv-x="1000" vert-adv-y="1000" >
+  <font-face
+    
+    font-family="Noto Sans S Chinese Medium"
+    
+    font-weight="500"
+    
+    font-stretch="normal"
+    
+    units-per-em="1000"
+    
+    panose-1="0 0 0 0 0 0 0 0 0 0"
+    
+    ascent="880"
+    
+    descent="-120"
+    
+    x-height="550"
+    
+    cap-height="736"
+    
+    bbox="-1007 -1047 2927 1807"
+    
+    underline-thickness="50"
+    
+    underline-position="-100"
+    
+    unicode-range="U+0001-2CE93"
+    
+  />
+    <missing-glyph />
+    
+    <glyph glyph-name="cid34" unicode="&#x41;" d="M437 210h-256l-63 -210h-118l244 736h134l244 -736h-123zM409 301l-29 99q-18 60 -35.5 121t-34.5 124h-4q-16 -63 -33 -124t-35 -121l-30 -99h201z"  horiz-adv-x="622"   />
+
+    
+    <glyph glyph-name="cid37" unicode="&#x44;" d="M280 95q119 0 181 69t62 207q0 139 -62 205t-181 66h-67v-547h67zM97 736h191q169 0 262 -92.5t93 -272.5q0 -90 -23.5 -159t-68.5 -116t-110 -71.5t-147 -24.5h-197v736z"  horiz-adv-x="699"   />
+
+    
+    <glyph glyph-name="cid38" unicode="&#x45;" d="M97 736h435v-97h-319v-205h270v-98h-270v-238h330v-98h-446v736z"  horiz-adv-x="600"   />
+
+    
+    <glyph glyph-name="cid46" unicode="&#x4d;" d="M97 736h133l135 -372q14 -37 25 -74t24 -75h5q13 38 24 75t24 74l133 372h134v-736h-108v364q0 25 1.5 54t3.5 59.5t5 60t5 54.5h-4l-59 -170l-128 -351h-72l-129 351l-58 170h-4q2 -25 4.5 -54.5t4.5 -60t3.5 -59.5t1.5 -54v-364h-104v736z"  horiz-adv-x="830"   />
+
+    
+    <glyph glyph-name="cid51" unicode="&#x52;" d="M499 0l-167 297h-119v-297h-116v736h241q57 0 105.5 -11t84.5 -36t56 -65.5t20 -100.5q0 -86 -42 -137.5t-112 -73.5l180 -312h-131zM213 390h111q81 0 123 33t42 100t-42 93.5t-123 26.5h-111v-253z"  horiz-adv-x="655"   />
+
+    
+    <glyph glyph-name="cid89" unicode="&#x78;" d="M193 287l-165 263h124l66 -111q13 -22 25.5 -45.5t26.5 -46.5h4q11 23 22.5 46t23.5 46l58 111h120l-165 -276l177 -274h-125l-72 116q-15 24 -28.5 49.5t-28.5 48.5h-5q-13 -23 -25 -48t-26 -50l-64 -116h-121z"  horiz-adv-x="526"   />
+
+    
+
+  </font>
+</defs></svg>
